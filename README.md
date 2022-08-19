@@ -1,7 +1,7 @@
 # flask-template-files
 
 
-# Update the following files
+# update the following files
 server.py - line 2 to add all your controllers
 flask_app/__init__.py - to update the way you chose to have your secret key
 flask_app/config/mysqlyconnection.py -  to have the right user/password combo
